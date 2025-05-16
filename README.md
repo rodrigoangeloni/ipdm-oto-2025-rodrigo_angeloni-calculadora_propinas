@@ -11,11 +11,6 @@ Aplicación Android desarrollada en Kotlin con Jetpack Compose que calcula autom
 - Cálculo instantáneo
 - Soporte para formato de moneda local
 
-## Captura de Pantalla 📱
-| Pantalla Principal |
-|---------------------|
-| ![Screenshot](screenshot.png) |
-
 ## Cómo Usar 🚀
 1. Ingresa el monto total de la cuenta
 2. Introduce el porcentaje de propina deseado
