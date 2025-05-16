@@ -1,8 +1,8 @@
 <resources>
-    <string name="app_name">Calculadora Propinas</string>
-    <string name="calculate_tip">Calculate Tip</string>
-    <string name="bill_amount">Bill Amount</string>
-    <string name="how_was_the_service">Tip Percentage</string>
-    <string name="round_up_tip">Round up tip?</string>
-    <string name="tip_amount">Tip Amount: %s</string>
+    <string name="app_name">Calculadora de Propinas</string>
+    <string name="calculate_tip">Calcular propina</string>
+    <string name="bill_amount">Monto de la factura</string>
+    <string name="how_was_the_service">Porcentaje de propina</string>
+    <string name="round_up_tip">¿Redondear Total?</string>
+    <string name="tip_amount">Monto de la propina: %s</string>
 </resources>
