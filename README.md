@@ -19,7 +19,7 @@ Calculadora intuitiva para dividir cuentas y calcular propinas en tiempo real. �
 
 ## 🛠️ Tecnologías Utilizadas
 
-- **Lenguaje**: ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin) + **Jetpack Compose** para UI declarativa.
+- **Lenguaje**: ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white) + **Jetpack Compose** para UI declarativa.
 - **Diseño**: Componentes Material 3 (`Card`, `Slider`, `TextField`).
 - **Gestión de estado**: `mutableStateOf` y `remember` para reactividad.
 - **Precisión**: Cálculos con `BigDecimal` para evitar errores de redondeo.
@@ -46,6 +46,8 @@ Calculadora intuitiva para dividir cuentas y calcular propinas en tiempo real. �
 
 ---
 
-MIT License
+## 📜 Licencia
 
-Copyright © 2025 Rodrigo Angeloni
+© 2025 Rodrigo Angeloni. Todos los derechos reservados.
+
+---
